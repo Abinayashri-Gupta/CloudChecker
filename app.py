@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # Global Gemini API configuration
-API_KEY = "AIzaSyCnOxwQ7LUJy56rpH4tHKmKYqGZoabJ8rI"  # Replace with your actual API key
+API_KEY = "AIzaSyADjW_LT3UyG6CVVEndz5SE0JvwI3P0zdo"  
 GEMINI_MODEL = "gemini-2.0-flash-lite"
 
 # Configure Gemini globally
